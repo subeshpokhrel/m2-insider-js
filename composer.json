@@ -2,7 +2,7 @@
   "name": "szero/insider-js-include",
   "description": "Module to include Insider's Service worker code on pub directory. Details - https://academy.useinsider.com/docs/integration-guides-webpush-native-optin-integration-vapid ",
   "type": "magento2-component",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "extra": {
     "map": [
       [
